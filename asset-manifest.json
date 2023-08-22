@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Taller-1-nodejs/static/css/main.853e0945.css",
+    "main.js": "/Taller-1-nodejs/static/js/main.e43d3a5c.js",
+    "index.html": "/Taller-1-nodejs/index.html",
+    "main.853e0945.css.map": "/Taller-1-nodejs/static/css/main.853e0945.css.map",
+    "main.e43d3a5c.js.map": "/Taller-1-nodejs/static/js/main.e43d3a5c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.853e0945.css",
+    "static/js/main.e43d3a5c.js"
+  ]
+}
